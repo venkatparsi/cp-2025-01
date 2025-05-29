@@ -1,5 +1,5 @@
-|   Day|   Date    | Agenda                     |Assignments                         
+|   Day|   Topic | Video                     |Assignments                         
 |------|-----------|-------------------------------|---------------------------
-|1      | 27 May 2025   |Introduction               |Read ahead about html.
-|2      | 29 May 2025   |HTML | what are the various tags of html, how to use tags.
-|3      | 31 May 2025   |`Presentation ? colors and reuse..`| CSS  
+|1      |    Introduction    |           |Read ahead about html.
+|2      | HTML | | what are the various tags of html, how to use tags.
+|3      |`Presentation ? colors and reuse..` | | CSS  
