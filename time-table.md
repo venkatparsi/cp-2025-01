@@ -3,4 +3,6 @@
 |1      | 27 May 2025   |Introduction               |Know the team and expectation, rules and todos   | 12
 |2      | 29 May 2025   |HTML |Need of html, why was it created.| 10
 |3     | 31 May 2025|  HTML Practice | Live coding to demonstrate html tags | 
-|4      |  02 Jun 2025   |`Presentation ? colors and reuse..`| CSS  |
+|4      |  02 Jun 2025   |HTML Practice| Live Coding to demonstrate html tags  |
+|5      |  02 Jun 2025   |HTML Practice| Live Coding to demonstrate html tags  |
+|6      |  02 Jun 2025   |HTML Practice| Live Coding to demonstrate html tags  |
