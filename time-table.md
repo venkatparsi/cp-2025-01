@@ -6,3 +6,4 @@
 |4      |  02 Jun 2025   |HTML Practice| Live Coding to demonstrate html tags  |
 |5      |  05 Jun 2025   |HTML Practice| Live Coding to demonstrate html tags  |
 |6      |  06 Jun 2025   |HTML Practice| Live Coding to demonstrate html tags  |
+|7     |  13 Jun 2025   |HTML Practice| Live Coding to demonstrate html tags  |
