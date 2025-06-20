@@ -10,7 +10,11 @@ Color System Values:
 
 
 /* Red background */
+
 background-color: #FF0000;
+
 background-color: rgb(255, 0, 0);
+
 background-color: rgba(255, 0, 0, 1);  /* fully opaque */
+
 background-color: rgba(255, 0, 0, 0.5); /* semi-transparent */
