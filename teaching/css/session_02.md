@@ -1,3 +1,7 @@
+Selectors Summary:
+![image](https://github.com/user-attachments/assets/5037919e-ecb4-4431-80d4-d358f32b7adb)
+
+
 Color System Values:
 
 | Feature     | RGB                  | RGBA                       | Hex             |
