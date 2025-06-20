@@ -18,3 +18,10 @@ background-color: rgb(255, 0, 0);
 background-color: rgba(255, 0, 0, 1);  /* fully opaque */
 
 background-color: rgba(255, 0, 0, 0.5); /* semi-transparent */
+
+✅ Which to use when
+Hex: For static design and theme color codes (cleaner and shorter).
+
+RGB: When working with JS or CSS that dynamically changes color.
+
+RGBA: When you need to control transparency (e.g., overlays, effects).
