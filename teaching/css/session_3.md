@@ -16,3 +16,7 @@ Color Palletes
 Color & Contrast Validator and Accessibility Standards Check
 
 https://webaim.org/resources/contrastchecker/
+
+Fonts reference and using with css.
+
+https://fonts.google.com/
